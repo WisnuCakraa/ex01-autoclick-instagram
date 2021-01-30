@@ -22,7 +22,7 @@ function likeFunction() {
   if (likeCount < 25) {
     setTimeout(likeFunction, wisnuKeren);
   } else {
-    console.log("Nice! jagoan kode emang joss.");
+    console.log("Nice! Follow IG @wisnucakra_.");
   }
 }
 var likeCount = 0;
